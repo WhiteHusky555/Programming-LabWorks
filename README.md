@@ -1,5 +1,5 @@
 # Programming-LabWorks
-Репозиторий с лабораторными работами по программированию
+Репозиторий с лабораторными работами по программированию.
 
 ## 1-й семестр
 - [Лабораторная работа 2](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/1%20semester/lab2.py)
@@ -28,3 +28,34 @@
 - [Лабораторная работа 23](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/1%20semester/lab23.py)
 
 ## 2-й семестр
+- [Лабораторная работа 1](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/lab2-1.py)
+- [Доп.задание к ЛР 1](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/dop2-1.py)
+- [Лабораторная работа 2](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/lab2-2.py)
+- [Доп.задание к ЛР 2](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/dop2-2.py)
+- [Лабораторная работа 3](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/lab2-3.py)
+- [Доп.задание к ЛР 3](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/dop2-3.py)
+- [Лабораторная работа 4](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/lab2.4.py)
+- [Доп.задание к ЛР 4](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/dop2-4.py)
+- [Лабораторная работа 5](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/lab2-5.py)
+- [Доп.задание к ЛР 5](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/dop2-5.py)
+- [Доп.задание к ЛР 5(2)](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/dop2-5.1.py)
+- [Лабораторная работа 6](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/lab2-6.py)
+- [Доп.задание к ЛР 6](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/dop2-6.py)
+- [Лабораторная работа 7](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/lab2-7.py)
+- [Доп.задание к ЛР 7](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/dop2-7.py)
+- [Лабораторная работа 8](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/lab2-8.py)
+- [Доп.задание к ЛР 8](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/dop2-8.py)
+- [Доп.задание к ЛР 8(2)](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/dop2-8new.py)
+- [Лабораторная работа 9](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/lab2-9.py)
+- [Доп.задание к ЛР 11](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/dop2-11.py)
+- [Доп.задание к ЛР 11(2)](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/dop2-11main.py)
+- [Лабораторная работа 12](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/lab2-12.py)
+- [Доп.задание к ЛР 12](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/dop2-12.py)
+- [Доп.задание к ЛР 12(2)](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/dop2-12+.py)
+- [Лабораторная работа 13](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/lab2-13.py)
+- [Доп.задание к ЛР 13](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/dop2-13.py)
+- [Лабораторная работа 14](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/lab2-14.py)
+- [Доп.задание к ЛР 14](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/dop2-14.py)
+- [Лабораторная работа 15](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/lab2-15.py)
+- [Доп.задание к ЛР 15](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/dop2-15.py)
+- [Лабораторная работа 16](https://github.com/WhiteHusky555/Programming-LabWorks/blob/main/2%20semester/main16.py)
